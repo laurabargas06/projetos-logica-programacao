@@ -1,1 +1,1 @@
-# projetos-logica-programacao
+# Projetos de Lógica de Programação
