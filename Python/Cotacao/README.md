@@ -1,7 +1,7 @@
 <h1>🤖 Bot de Cotação de Moedas no Telegram</h1>
 Script em Python que consulta a cotação em tempo real de moedas (via AwesomeAPI) e envia alertas automáticos no Telegram com suporte a variáveis de ambiente para segurança das credenciais.
 
-🛠️ Tecnologias Utilizadas
+<h2>🛠️ Tecnologias Utilizadas</h2>
 Python 3.10+
 
 Requests: Consumo de APIs REST.
@@ -11,13 +11,15 @@ Python-dotenv: Gerenciamento seguro de variáveis de ambiente.
 AwesomeAPI: API pública de cotações financeiras.
 
 Telegram Bot API: Envio de notificações de câmbio.
-1. Instalação de Dependências
+
+<h2>Instalação de Dependências</h2>
 
 No terminal da sua IDE (com o ambiente virtual ativo), rode o comando abaixo para instalar as duas bibliotecas necessárias:
 
 Bash
 pip install requests python-dotenv
-2. Configuração dos Tokens (Arquivo .env)
+
+<h2>Configuração dos Tokens (Arquivo .env)</h2>
 
 Crie um arquivo chamado .env na raiz do projeto e insira seus dados do Telegram:
 
