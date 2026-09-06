@@ -1,4 +1,4 @@
-🤖 Bot de Cotação de Moedas no Telegram
+#🤖 Bot de Cotação de Moedas no Telegram
 Script em Python que consulta a cotação em tempo real de moedas (via AwesomeAPI) e envia alertas automáticos no Telegram com suporte a variáveis de ambiente para segurança das credenciais.
 
 🛠️ Tecnologias Utilizadas
