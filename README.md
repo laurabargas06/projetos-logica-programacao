@@ -41,4 +41,4 @@ Um sistema interativo via terminal para gerenciamento de passagens aéreas.
 * **Git/GitHub** (Controle de Versão)
 
 
-   git clone [https://github.com/laurabargas06/projetos-logica-programacao.git](https://github.com/laurabargas06/projetos-logica-programacao.git)
+  
